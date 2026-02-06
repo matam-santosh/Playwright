@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1233","should submit the form and display the message paragraph","firefox","2026-02-06","passed","2026-02-06","Login Form Tests","example.spec.js","",""
+"","281","should submit the form and display the message paragraph","chromium","2026-02-06","passed","2026-02-06","Login Form Tests","example.spec.js","",""
+"","4579","should submit the form and display the message paragraph","webkit","2026-02-06","passed","2026-02-06","Login Form Tests","example.spec.js","",""
+"","465","should show validation logic (basic check)","firefox","2026-02-06","passed","2026-02-06","Login Form Tests","example.spec.js","",""
+"","517","should show validation logic (basic check)","webkit","2026-02-06","passed","2026-02-06","Login Form Tests","example.spec.js","",""
+"","218","should show validation logic (basic check)","chromium","2026-02-06","passed","2026-02-06","Login Form Tests","example.spec.js","",""
