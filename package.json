@@ -13,6 +13,7 @@
     "@types/node": "^25.2.1"
   },
   "dependencies": {
+    "allure-commandline": "^2.36.0",
     "allure-playwright": "^3.4.5",
     "body-parser": "^2.2.2",
     "cors": "^2.8.6",
